@@ -48,3 +48,5 @@ alert(g_form.getLabelOf('caller_id')); //this gets the label of the given field
 var tablename = g_form.getTableName(); //brings the table name and it needs alert
 alert(tablename);
 
+//todo: setReadOnly()
+g_form.SetReadOnly('u_funding_code', false); //obvious stuff

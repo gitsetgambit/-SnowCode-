@@ -2,13 +2,11 @@
 gs.print('hello world'); //it simply print the string n print it in the screen
 
 //todo:
-
 gs.log('hello world', 'marks_logs'); //it actually logs the message in the system log table 
 // gs.log accepts two arguments message and source, source can be any string and will be shown in source column of 
 // system log table
 
 //todo:
-
 gs.error('its an error message'); //it goes in the sytem logs Error 
 
 //todo:
